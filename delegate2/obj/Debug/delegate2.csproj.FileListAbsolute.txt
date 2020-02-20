@@ -1,0 +1,6 @@
+d:\Users\Admin\source\repos\delegate2\delegate2\bin\Debug\delegate2.exe.config
+d:\Users\Admin\source\repos\delegate2\delegate2\bin\Debug\delegate2.exe
+d:\Users\Admin\source\repos\delegate2\delegate2\bin\Debug\delegate2.pdb
+d:\Users\Admin\source\repos\delegate2\delegate2\obj\Debug\delegate2.csproj.CoreCompileInputs.cache
+d:\Users\Admin\source\repos\delegate2\delegate2\obj\Debug\delegate2.exe
+d:\Users\Admin\source\repos\delegate2\delegate2\obj\Debug\delegate2.pdb
